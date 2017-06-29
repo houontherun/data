@@ -1,6 +1,6 @@
 -- This is generate by program !!!
 -- Don't change it manaully. 
--- GenerateTime: '2017-06-28 14:55:22'
+-- GenerateTime: '2017-06-29 11:14:07'
 
 return { 
     ["CampExpReward"] = {
@@ -16330,7 +16330,7 @@ return {
             TaskTargetDescription = 0,
             TaskTargetDescription1 = "找到周小史",
             CompleteDialogue = 0,
-            CompleteDialogue1 = "周小史:唉……|self：姑娘好……|周小史:咦……我记得你是……上次送药的那位……少侠好……|self:我刚见你在这边叹气，是发生什么了吗？",
+            CompleteDialogue1 = "周小史:唉……|self:姑娘好……|周小史:咦……我记得你是……上次送药的那位……少侠好……|self:我刚见你在这边叹气，是发生什么了吗？",
             AutoReceive = 1,
             Aandon = 0,
             AutoComplete = 1,
@@ -24955,7 +24955,7 @@ return {
             TaskTargetDescription = 0,
             TaskTargetDescription1 = "找到周小史",
             CompleteDialogue = 0,
-            CompleteDialogue1 = "周小史:唉……|self：姑娘好……|周小史:咦……我记得你是……上次送药的那位……少侠好……|self:我刚见你在这边叹气，是发生什么了吗？",
+            CompleteDialogue1 = "周小史:唉……|self:姑娘好……|周小史:咦……我记得你是……上次送药的那位……少侠好……|self:我刚见你在这边叹气，是发生什么了吗？",
             AutoReceive = 1,
             Aandon = 0,
             AutoComplete = 1,

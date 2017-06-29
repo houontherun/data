@@ -1,6 +1,6 @@
 -- This is generate by program !!!
 -- Don't change it manaully. 
--- GenerateTime: '2017-06-21 10:56:42'
+-- GenerateTime: '2017-06-29 11:51:49'
 
 return { 
     ["UpgradeCost"] = {
@@ -8082,7 +8082,7 @@ return {
             ShockTime = 0,
             Description = 0,
             Description1 = "使用巫术恢复友军目标大量生命，并提高目标的造成的伤害[buff1:Para1/100]%，持续[buff1:time]秒(技能CD[CD/1000]秒)",
-            Icon = "imgskill314",
+            Icon = "imgskill313",
         },
         [314] = { 
             ID = 314,
@@ -8113,7 +8113,7 @@ return {
             ShockTime = 0,
             Description = 0,
             Description1 = "攻击单体敌人，造成[Para1/100]%的法术伤害以及[math.floor(Para3/10000)]点额外伤害，并使其减速[buff1:Para1/100]%，持续[buff1:time]秒，同时使目标进入易伤状态，持续[buff2:time]秒（易伤：受到的伤害提高15%）",
-            Icon = "",
+            Icon = "imgskill314",
         },
         [322] = { 
             ID = 322,
