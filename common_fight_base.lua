@@ -1,6 +1,6 @@
 -- This is generate by program !!!
 -- Don't change it manaully. 
--- GenerateTime: '2017-06-28 14:52:10'
+-- GenerateTime: '2017-06-30 16:18:54'
 
 return { 
     ["RedNameSystem"] = {
@@ -144547,6 +144547,14 @@ return {
         [63] = { 
             ID = 63,
             Value = 25,
+        },
+        [64] = { 
+            ID = 64,
+            Value = 45,
+        },
+        [65] = { 
+            ID = 65,
+            Value = 3,
         },
     },
 
